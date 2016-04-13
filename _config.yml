@@ -1,7 +1,7 @@
 name: ladypepper
 favicon: null
-layout_spectrum: 0.35037
-typography_spectrum: 0.11137967417016625
+layout_spectrum: 0.63403
+typography_spectrum: 0.29747
 title: Lady Pepper
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#fefefe'
+    - '#d7dbda'
+    - '#8c7c62'
+    - '#500001'
+    - '#875018'
   brandStrength: 0.3070178800262511
   lightness: 0.36390435602515936
   saturation: 0.050047688418999314
