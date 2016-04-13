@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lady Pepper]]></title>
+        <description><![CDATA[Lady Pepper]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 16:14:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spinach and Ricotta Gnudi ]]></title>
+            <description><![CDATA[<article><h1>Spinach and Ricotta Gnudi </h1><p>Gnudi are balls made of spinach and ricotta. This recipe comes from Tuscany and it used to be a peasant food because of its simple and cheap ingredients.Gnudirecipe is one of the most appreciated Tuscan dishes and it is pretty amazing. It can be served as a first dish instead of pasta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/123fcc6e-ec81-40c0-9526-d6be01cd8d20.jpg"></article>]]></description>
+            <link>undefinedspinach-and-ricotta-gnudi/index.html</link>
+            <guid isPermaLink="false">118296f2-456b-4f35-8dec-21bf043da8e2</guid>
+            <pubDate>Wed, 13 Apr 2016 16:14:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
