@@ -6,25 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Gnudi\_are balls made of spinach and ricotta. This recipe comes from Tuscany and it used to be a peasant food because of its simple and cheap ingredients.Gnudirecipe is one of the most appreciated Tuscan dishes and it is pretty amazing. It can be served as a first dish instead of pasta."
-datePublished: '2016-04-13T16:14:36.486Z'
-dateModified: '2016-04-13T16:13:24.297Z'
+datePublished: '2016-04-13T16:25:20.175Z'
+dateModified: '2016-04-13T16:24:54.865Z'
 title: 'Spinach and Ricotta Gnudi '
 author: []
+sourcePath: _posts/2016-04-13-spinach-and-ricotta-gnudi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-spinach-and-ricotta-gnudi.md
-published: true
 url: spinach-and-ricotta-gnudi/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/123fcc6e-ec81-40c0-9526-d6be01cd8d20.jpg)
-
 **Gnudi **are balls made of spinach and ricotta. This recipe comes from Tuscany and it used to be a peasant food because of its simple and cheap ingredients.**Gnudi**recipe is one of the most appreciated Tuscan dishes and it is pretty amazing. It can be served as a first dish instead of pasta.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/123fcc6e-ec81-40c0-9526-d6be01cd8d20.jpg)
 
 Let's start cooking
 
