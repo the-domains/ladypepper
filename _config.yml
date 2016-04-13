@@ -1,0 +1,28 @@
+name: ladypepper
+favicon: null
+layout_spectrum: 0.8562418199144304
+typography_spectrum: 0.11137967417016625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3070178800262511
+  lightness: 0.36390435602515936
+  saturation: 0.050047688418999314
+  rhythmicContrast: 0.2053709621541202
+purpose: []
