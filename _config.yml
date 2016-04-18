@@ -1,5 +1,8 @@
+name: ladypepper
+favicon: null
+layout_spectrum: 0.90504
+typography_spectrum: 0.29747
 title: Lady Pepper
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.05004769
-  brandStrength: 0.1875
-  lightness: 0.0483871
   brandColors:
     - '#fefefe'
     - '#d7dbda'
     - '#8c7c62'
     - '#500001'
     - '#875018'
-  rhythmicContrast: 0.205371
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: ladypepper
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.29747
-layout_spectrum: 0.90504
+  brandStrength: 0.4375
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 0.25
+purpose: []
