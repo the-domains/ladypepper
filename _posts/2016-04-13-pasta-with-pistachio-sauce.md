@@ -6,18 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: How many of you love pistachio? We usually use it in sweets but I adore pistachio in pasta dishes or meat ones too. I wanted try to experiment a new healthy sauce for my beloved pasta so here is the recipe. Follow step by step my directions and the result will surprise you. I recommend you to use fresh basil in order to have a good meal.
-datePublished: '2016-04-13T16:42:50.385Z'
-dateModified: '2016-04-13T16:41:28.313Z'
-title: Pasta with Pistachio Sauce
+datePublished: '2016-05-07T09:03:25.600Z'
+dateModified: '2016-04-18T18:15:19.960Z'
+title: ''
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-04-13-pasta-with-pistachio-sauce.md
-published: true
 url: pasta-with-pistachio-sauce/index.html
 _type: Article
 
